@@ -5,9 +5,9 @@ Test Project has developed in :
 
 1. Java programming language
 2. Selenium used as an Automation tool including Apache POI libraries
-3. Page Object Model Design pattern used to develop the test automation
+3. Page Object Model Design pattern and Data Driven Testing is used to develop the test automation
 4. TestNG used as a testing tool for integration tests
-5. Extent-Report has used for test execution summary report
+5. Extent-Report has been used for test execution summary report
 6. Maven used as a Build Automation Tool
 
 Please find below compile and run instructions
